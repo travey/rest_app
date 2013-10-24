@@ -5,4 +5,12 @@ class PagesController < ApplicationController
   end
   def restaurants
   end
+  def app
+  end
+  def entree
+  end
+  def checkout
+  end
+  def complete
+  end
 end
