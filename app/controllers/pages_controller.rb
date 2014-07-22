@@ -11,6 +11,5 @@ class PagesController < ApplicationController
   end
   def checkout
   end
-  def complete
-  end
+  
 end
