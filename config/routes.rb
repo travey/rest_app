@@ -6,7 +6,7 @@ RestApp::Application.routes.draw do
   get "app" => "pages#app"
   get "entree" => "pages#entree"
   get "checkout" => "pages#checkout"
-  get "complete" => "pages#complete"
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
