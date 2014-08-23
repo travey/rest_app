@@ -17,9 +17,7 @@ class PagesController < ApplicationController
   def checkout
   end
   
-<<<<<<< HEAD
   def complete
   end
-=======
->>>>>>> FETCH_HEAD
+
 end
